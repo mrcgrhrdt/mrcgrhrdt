@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Maurice</h1>
+<h3 align="center">A passionate Android developer from Berlin</h3>
+
 <p align="center">
   <a href="https://dev.to/mrcgrhrdt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrcgrhrdt" height="20" width="20" />
   </a>  
@@ -9,8 +11,6 @@
   <a href="https://instagram.com/mrcgrhrdt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrcgrhrdt" height="20" width="20" />
   </a>
 </p>
-
-<h3 align="center">A passionate Android developer from Berlin</h3>
 
 <p><img src="https://komarev.com/ghpvc/?username=mrcgrhrdt" alt="mrcgrhrdt" /></p>
 

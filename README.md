@@ -20,10 +20,10 @@
 </div>
 
 ## About me
-- 💻 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/Eloquent-Android)
-- ✌🏼 My personal website is [mgcodes.one](mgcodes.one)
-- 💡 Sometimes, I write articles on [mgcodes.one/blog](https://mgcodes.one/blog)
-- 📫 You can reach out to me via maurice@mgcodes.one
+- ![](https://super.so/icon/dark/monitor.svg) I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/Eloquent-Android)
+- ![](https://super.so/icon/dark/layout.svg) My personal website is [mgcodes.one](mgcodes.one)
+- ![](https://super.so/icon/dark/book-open.svg) Sometimes, I write articles on [mgcodes.one/blog](https://mgcodes.one/blog)
+- ![](https://super.so/icon/dark/message-square.svg) You can reach out to me via maurice@mgcodes.one
 
 ## Stats
 <p align="left">

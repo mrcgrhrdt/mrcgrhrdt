@@ -16,10 +16,10 @@
 </div>
 
 ## About me
-- <img src="https://super.so/icon/dark/monitor.svg" height="18"/> I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/Eloquent-Android)
-- <img src="https://super.so/icon/dark/layout.svg" height="18"/>  My personal website is [mgcodes.one](mgcodes.one)
-- <img src="https://super.so/icon/dark/book-open.svg" height="18"/> Sometimes, I write articles on [mgcodes.one/blog](https://mgcodes.one/blog)
-- <img src="https://super.so/icon/dark/message-square.svg" height="18"/> You can reach out to me via maurice@mgcodes.one
+- 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/Eloquent-Android)
+- 🖥 My personal website is [mgcodes.one](mgcodes.one)
+- 💡 Sometimes, I write articles on [mgcodes.one/blog](https://mgcodes.one/blog)
+- 💬 You can reach out to me via maurice@mgcodes.one
 
 ## Stats
 <p align="left">

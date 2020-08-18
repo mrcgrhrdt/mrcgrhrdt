@@ -1,18 +1,7 @@
 # Hi 👋🏼, I'm Maurice
 ### A passionate Android developer from Berlin
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=mrcgrhrdt&color=3DDC84&style=flat-square" alt="mrcgrhrdt"/>
-  <a href="https://linkedin.com/in/maurice-gerhardt-840b39171" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/linkedin.svg" height="15" width="40"/>
-  </a>
-  <a href="https://twitter.com/mrcgrhrdt" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/twitter.svg" height="15" width="40"/>
-  </a>
-  <a href="https://instagram.com/mrcgrhrdt" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/instagram.svg" height="15" width="40"/>
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=mrcgrhrdt&color=3DDC84&style=flat-square" alt="mrcgrhrdt"/>
 
 ## About me
 - 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/Eloquent-Android)
@@ -25,3 +14,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrcgrhrdt&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcgrhrdt&layout=compact" />
 </p>
+
+## You can find me here
+<div>
+  <a href="https://linkedin.com/in/maurice-gerhardt-840b39171" target="_blank">
+    <img align="center" src="https://super.so/icon/dark/linkedin.svg" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/mrcgrhrdt" target="_blank">
+    <img align="center" src="https://super.so/icon/dark/twitter.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/mrcgrhrdt" target="_blank">
+    <img align="center" src="https://super.so/icon/dark/instagram.svg" height="30" width="40"/>
+  </a>
+</div>

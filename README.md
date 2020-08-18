@@ -3,15 +3,14 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=mrcgrhrdt&color=3DDC84&style=flat-square" alt="mrcgrhrdt"/>
-  </br>
   <a href="https://linkedin.com/in/maurice-gerhardt-840b39171" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/linkedin.svg" height="25" width="40"/>
+    <img align="center" src="https://super.so/icon/dark/linkedin.svg" height="15" width="40"/>
   </a>
   <a href="https://twitter.com/mrcgrhrdt" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/twitter.svg" height="25" width="40"/>
+    <img align="center" src="https://super.so/icon/dark/twitter.svg" height="15" width="40"/>
   </a>
   <a href="https://instagram.com/mrcgrhrdt" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/instagram.svg" height="25" width="40"/>
+    <img align="center" src="https://super.so/icon/dark/instagram.svg" height="15" width="40"/>
   </a>
 </div>
 

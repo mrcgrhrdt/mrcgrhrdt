@@ -7,7 +7,7 @@
 - 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/Eloquent-Android)
 - 🖥 My personal website is [mgcodes.one](mgcodes.one)
 - 💡 Sometimes, I write articles on [mgcodes.one/blog](https://mgcodes.one/blog)
-- 💬 You can reach out to me via maurice@mgcodes.one
+- 💬 You can reach out to me via [hello@mgcodes.one](mailto:hello@mgcodes.one)
 
 ## Stats
 <p align="left">

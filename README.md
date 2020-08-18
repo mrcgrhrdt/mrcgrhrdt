@@ -3,18 +3,17 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=mrcgrhrdt&color=3DDC84&style=flat-square" alt="mrcgrhrdt"/>
-  </br>
-  <a href="https://dev.to/mrcgrhrdt" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrcgrhrdt" height="20" width="20"/>
+  <a href="https://dev.to/mrcgrhrdt" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrcgrhrdt" height="25" width="40"/>
   </a>
-  <a href="https://twitter.com/mrcgrhrdt" target="blank">
-    <img align="center" src="https://super.so/icon/dark/twitter.svg" alt="mrcgrhrdt" height="20" width="20"/>
+  <a href="https://twitter.com/mrcgrhrdt" target="_blank">
+    <img align="center" src="https://super.so/icon/dark/twitter.svg" alt="mrcgrhrdt" height="25" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/maurice-gerhardt-840b39171" target="blank">
-    <img align="center" src="https://super.so/icon/dark/linkedin.svg" alt="maurice-gerhardt-840b39171" height="20" width="20"/>
+  <a href="https://linkedin.com/in/maurice-gerhardt-840b39171" target="_blank">
+    <img align="center" src="https://super.so/icon/dark/linkedin.svg" alt="maurice-gerhardt-840b39171" height="25" width="40"/>
   </a>
-  <a href="https://instagram.com/mrcgrhrdt" target="blank">
-    <img align="center" src="https://super.so/icon/dark/instagram.svg" alt="mrcgrhrdt" height="20" width="20"/>
+  <a href="https://instagram.com/mrcgrhrdt" target="_blank">
+    <img align="center" src="https://super.so/icon/dark/instagram.svg" alt="mrcgrhrdt" height="25" width="40"/>
   </a>
 </div>
 

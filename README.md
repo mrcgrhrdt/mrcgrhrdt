@@ -4,9 +4,8 @@
 <img src="https://komarev.com/ghpvc/?username=mrcgrhrdt&color=3DDC84&style=flat-square" alt="mrcgrhrdt"/>
 
 ## About me
-- 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/Eloquent-Android)
+- 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/)
 - 🖥 My personal website is [mgcodes.one](mgcodes.one)
-- 💡 Sometimes, I write articles on [mgcodes.one/blog](https://mgcodes.one/blog)
 - 💬 You can reach out to me via [hello@mgcodes.one](mailto:hello@mgcodes.one)
 
 ## Stats

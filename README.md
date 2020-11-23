@@ -6,7 +6,7 @@
 ## About me
 - 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/)
 - 🖥 My personal website is [mgcodes.one](mgcodes.one)
-- 💬 You can reach out to me via [hello@mgcodes.one](mailto:hello@mgcodes.one)
+- 💬 You can reach out to me via [twitter](https://twitter.com/mrcgrhrdt)
 
 ## Stats
 <p align="left">

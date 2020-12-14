@@ -1,17 +1,13 @@
 # Hi 👋🏼, I'm Maurice
-### A passionate Android developer from Berlin
+
+### A passionate software engineer from Berlin
 
 <img src="https://komarev.com/ghpvc/?username=mrcgrhrdt&color=3DDC84&style=flat-square" alt="mrcgrhrdt"/>
 
 ## About me
-- 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/)
-- 💬 You can reach out to me via [twitter](https://twitter.com/mrcgrhrdt)
 
-## Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrcgrhrdt&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcgrhrdt&layout=compact" />
-</p>
+🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/)
+💬 You can reach out to me via [twitter](https://twitter.com/mrcgrhrdt)
 
 ## You can find me here
 <div>

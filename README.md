@@ -6,8 +6,8 @@
 
 ## About me
 
-🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/)
-💬 You can reach out to me via [twitter](https://twitter.com/mrcgrhrdt)
+- 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/)
+- 💬 You can reach out to me via [twitter](https://twitter.com/mrcgrhrdt)
 
 ## You can find me here
 <div>

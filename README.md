@@ -6,18 +6,11 @@
 
 ## About me
 
-- 🔨 I’m currently working on this project: [Eloquent](https://github.com/Eloquent-Team/)
+- 🔨 I’m currently working on this project: [Iotop](https://github.com/Iotop-Berlin/)
 - 💬 You can reach out to me via [twitter](https://twitter.com/mrcgrhrdt)
 
 ## You can find me here
-<div>
-  <a href="https://linkedin.com/in/maurice-gerhardt-840b39171" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/linkedin.svg" height="30" width="40"/>
-  </a>
-  <a href="https://twitter.com/mrcgrhrdt" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/twitter.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/mrcgrhrdt" target="_blank">
-    <img align="center" src="https://super.so/icon/dark/instagram.svg" height="30" width="40"/>
-  </a>
-</div>
+
+- 🖇 [LinkedIn](https://linkedin.com/in/maurice-gerhardt-840b39171)
+- 🐥 [Twitter](https://twitter.com/mrcgrhrdt)
+- 📷 [Instagram](https://instagram.com/mrcgrhrdt)

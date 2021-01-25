@@ -1,6 +1,6 @@
 # Hi 👋🏼, I'm Maurice
 
-### A passionate software engineer from Berlin
+### A curiosity-driven software engineer from Berlin
 
 <img src="https://komarev.com/ghpvc/?username=mrcgrhrdt&color=3DDC84&style=flat-square" alt="mrcgrhrdt"/>
 

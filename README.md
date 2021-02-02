@@ -1,16 +1,19 @@
-# Hi 👋🏼, I'm Maurice
+## Hi pals👋🏼
 
-### A curiosity-driven software engineer from Berlin
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mrcgrhrdt)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maurice-gerhardt-840b39171/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.linkedin.com/in/maurice-gerhardt-840b39171/)
 
-<img src="https://komarev.com/ghpvc/?username=mrcgrhrdt&color=3DDC84&style=flat-square" alt="mrcgrhrdt"/>
+I'm Maurice, a curiosity-driven software engineer from Berlin. At the moment I'm doing my B.Sc. in Software Engineering at CODE University.
 
-## About me
+## 📍 Pinned Projects
 
-- 🔨 I’m currently working on this project: [Iotop](https://github.com/Iotop-Berlin/)
-- 💬 You can reach out to me via [twitter](https://twitter.com/mrcgrhrdt)
+🌱 **[Iotop](https://github.com/Iotop-Berlin/)** - An IoT project with an Arduino in combination with an iOS app. The app shows measurements from the plant sensor in a pretty manor and can send push notifications if an action is required.
+</br>
 
-## You can find me here
+🗣️ **[Eloquent](https://github.com/Eloquent-Team/)** - An Android application which analyzes voice with the help of a microservice cluster.
+</br>
 
-- 🖇 [LinkedIn](https://linkedin.com/in/maurice-gerhardt-840b39171)
-- 🐥 [Twitter](https://twitter.com/mrcgrhrdt)
-- 📷 [Instagram](https://instagram.com/mrcgrhrdt)
+## 💬 Hit me up
+
+Feel free to hit me up via any social media listed above :)

@@ -10,10 +10,13 @@ I'm Maurice, a curiosity-driven software engineer from Berlin. At the moment I'm
 
 ## 📍 Pinned Projects
 
-🌱 **[Iotop](https://github.com/Iotop-Berlin/)** - An IoT project with an Arduino in combination with an iOS app. The app shows measurements from the plant sensor in a pretty manor and can send push notifications if an action is required. _(Current)_
+🌏 **[WorkAround](https://github.com/WorkAroundHQ/)** – WorkAround is a platform for digital nomads who call the world their home. With WorkAround, digital nomads can pick their next ideal destination and connect with the community there.
 </br>
 
-🗣️ **[Eloquent](https://github.com/Eloquent-Team/)** - An Android application which analyzes voice with the help of a microservice cluster.
+🌱 **[Iotop](https://github.com/Iotop-Berlin/)** – An IoT project with an Arduino in combination with an iOS app. The app shows measurements from the plant sensor in a pretty manor and can send push notifications if an action is required.
+</br>
+
+🗣️ **[Eloquent](https://github.com/Eloquent-Team/)** – An Android application which analyzes voice with the help of a microservice cluster.
 </br>
 </br>
 
